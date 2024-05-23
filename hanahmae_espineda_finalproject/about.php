@@ -211,6 +211,7 @@
             <a href="index.php"><img src="images/logo.png" class="logo"></a>
             <nav>
                 <ul id="menuList">
+                    <li><a href="index.php">Home</a></li>
                     <li><a href="books.php">Library</a></li>
                     <li><a href="main.php">Reading List</a></li>
                     <li><a href="about.php">About</a></li>
